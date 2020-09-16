@@ -32,6 +32,7 @@ const printReversedNameBySymbol = (name) => {
 
 ## Experience
 
+* Code Basics Courses
 * Google Analytics Individual Qualification
 
 ## Education
