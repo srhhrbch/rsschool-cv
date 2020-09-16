@@ -38,6 +38,7 @@ const printReversedNameBySymbol = (name) => {
 ## Education
 
 * College of Business and Law
+* Belarusian State University of Informatics and Radioelectronics
 
 ## English
 
