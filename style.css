@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+h1, h2 {
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 7px;
+    color: #24292e;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+pre {
+    background-color: #fafafa;
+}
+
+.logo {
+    height: 256px;
+    width: 256px;
+}
+
+.resume, .contacts, .summary, .skills, .examples, .experience, .education, .english {
+    margin-top: 25px;
+}
+
+.english {
+    margin-bottom: 25px;
+}
+
+.page {
+    background-color: white;
+    display: flex;
+    flex-flow: column;
+    max-width: 1024px;
+    margin: 0 auto;
+}
